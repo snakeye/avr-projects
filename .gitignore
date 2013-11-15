@@ -1,0 +1,6 @@
+Debug
+Release
+
+*.atsln
+*.atsuo
+*.cproj
