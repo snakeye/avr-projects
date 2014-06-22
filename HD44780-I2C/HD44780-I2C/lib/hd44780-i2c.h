@@ -7,6 +7,6 @@
 #ifndef HD44780_I2C_H_
 #define HD44780_I2C_H_
 
-
+void display_init();
 
 #endif
